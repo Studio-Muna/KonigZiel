@@ -1,4 +1,4 @@
 # KonigZiel
-#eu vou comitar essa nova atualização
-#qualquer coza
-#comi o Dias
+# eu vou comitar essa nova atualização
+# qualquer coza
+# comi o Dias
